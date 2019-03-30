@@ -5,4 +5,4 @@ The code is all set to go all you need to do is create a text file which you wan
 Change the image name in the code with your image name once you decide which image you want to take
 Cheers!
 For any queries feel free to contact me at bishwasmandal246@gmail.com
-This entire work is not copied from any source and is my original work(Code Work)
+This entire work is the implementation of a research paper of Hindawi Publications named as Digital-Image_Steganography-Using-8Directional-PVD by Dr. Gandharba Swain
